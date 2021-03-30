@@ -1,15 +1,9 @@
 ## 关于我
-
-
 -  本科在校生
 -  CTFer，信安狂热爱好者
 -  啥都想学，高数，物理，软工，信安，机器学习...
 -  LOL菜鸡，又菜又爱玩
-
-
-
 ## 联系
-
 -   QQ：2992721672
--   Twitter：Ghostasky
--   微博：郁涛丶
+-   Twitter：[Ghostasky](https://twitter.com/ghostasky)
+-   微博：[郁涛丶](https://weibo.com/Ghostasky)
