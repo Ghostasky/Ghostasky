@@ -6,4 +6,3 @@
 ## 联系
 -   QQ：2992721672
 -   Twitter：[Ghostasky](https://twitter.com/ghostasky)
--   网易云：[郁涛丶](https://music.163.com/#/user/home?id=439790351)
