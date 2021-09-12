@@ -8,4 +8,3 @@
 -  Blog：[郁涛丶'sBlog](https://ghostasky.github.io/)
 ## 联系
 -   QQ：2992721672
--   Twitter：[Ghostasky](https://twitter.com/ghostasky)
