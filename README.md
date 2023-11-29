@@ -1,10 +1,5 @@
 ## 关于我
--  技术栈很杂，总而言之啥都不会...
--  本科在校生/CTFer，信安狂热爱好者
--  啥都想学，数学，物理，软工，信安，开发，机器学习...
--  一个无趣的人,拥有一个无趣的灵魂
--  LOL菜鸡，又菜又爱玩
--  Blog：[郁涛丶'sBlog](https://ghostasky.github.io/)
+-  fw一个，啥都不会
 ## 联系
 -   QQ：2992721672
 -   Twitter：[Ghostasky](https://twitter.com/ghostasky)
